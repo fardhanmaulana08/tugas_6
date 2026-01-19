@@ -6,5 +6,5 @@ Repository ini berisi kumpulan **function PHP dasar** sebagai bagian dari tugas 
 
 ## 👤 Identitas
 - **Nama** : Fardhan Maulana Yunandar  
-- **Mata Kuliah** : Pemrograman Web  
+- **Mata Kuliah** : Pengembangan Perangkat Lunak
 - **Bahasa** : PHP  
